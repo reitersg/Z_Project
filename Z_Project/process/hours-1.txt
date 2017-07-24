@@ -1,0 +1,9 @@
+Brendan Goldacker (m1):
+Sprint0:
+2
+Sprint1:
+5
+Sprint2:
+4
+Sprint3:
+4
